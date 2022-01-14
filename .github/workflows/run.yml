@@ -20,3 +20,4 @@ jobs:
                   GIST_ID: e3bbb8716c5e58dae286aedd812dd5ae # The ID portion from your gist url
                   ALL_COMMITS: true # If `true` it will count all commits, if `false` it will count your last year commits
                   K_FORMAT: true # If `true`, large numbers will be formatted with a "k", for example "1.5k"
+ 
